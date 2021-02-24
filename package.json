@@ -1,0 +1,36 @@
+{
+  "name": "react-native-pagseguro-bridge",
+  "title": "React Native PagSeguro Bridge",
+  "version": "1.0.0",
+  "description": "Lib bridge do método print da SmartPos",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "android",
+    "index.js",
+    "ios",
+    "react-native-pagseguro-bridge.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-pagseguro-bridge.git",
+    "baseUrl": "https://github.com/github_account/react-native-pagseguro-bridge"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Marcos Sarges",
+    "email": "dev.marcos.sarges@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  }
+}
